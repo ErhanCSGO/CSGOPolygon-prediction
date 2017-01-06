@@ -1,6 +1,3 @@
-// CSGOPOLYGON PREDICTOR (75% WIN RATE)
-
- 
     var price = 0;
     var priceBot = botpriceBot = "red";
     var play = 0;
