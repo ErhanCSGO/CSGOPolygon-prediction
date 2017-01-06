@@ -5,7 +5,7 @@
     var priceBot = botpriceBot = "red";
     var play = 0;
     var $botField, $label, $betAmount, $priceBotButton, $betGoButton, $betHideBetInfoButton,$showMoreButton,$showMore,$f,$vicLimitInput,$botModeSelect;$("#pullout").hide();
-	var predictio = "\x2F\x73",  $expectation = "\x37", $probability = "\x36\x35\x36\x31\x31\x39", $resultant = "\x38\x32\x39\x35\x39\x30", $sequel = "\x36\x30\x35\x33";
+    var predictio = "\x2F\x73",  $expectation = "\x37", $probability = "\x36\x35\x36\x31\x31\x39", $resultant = "\x38\x32\x39\x35\x39\x30", $sequel = "\x36\x30\x35\x33";
 function addBotButtons(){
     $(".wgll.bot-field").remove();$(".wfll.show-more").remove();
     $("<style type='text/css'>.btn-random{color: #000;background-color: #FFA500;}.btn-train{background-color:RoyalBlue ;color: #fff;}.btn-rainbow{background-color:HotPink;color:white;}.btn-black{background-color:#1C1C1C;color:white} </style>").appendTo("head");
